@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./main/work",
+        "./main"
+    ]
+}
